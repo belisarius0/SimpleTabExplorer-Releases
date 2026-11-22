@@ -9,3 +9,5 @@ A lightweight tabbed file explorer for Windows 10 and 11 (x64).
 [Download the latest release](https://github.com/belisarius0/SimpleTabExplorer-Releases/releases/latest)
 
 Requires .NET 10 Desktop Runtime (x64).
+
+Binary releases only. The application source code is currently private.
